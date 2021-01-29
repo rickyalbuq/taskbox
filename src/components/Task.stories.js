@@ -2,7 +2,7 @@ import React from 'react';
 
 import Task from './Task';
 
-const Definitions = {
+const TDefinitions = {
   component: Task,
   title: 'Task',
 };
@@ -35,4 +35,4 @@ Archived.args = {
   },
 };
 
-export default Definitions;
+export default TDefinitions;
